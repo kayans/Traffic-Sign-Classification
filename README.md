@@ -18,6 +18,7 @@ In real life situations, some traffic signs that we see on the streets are not i
 3. image_change.ipynb: The code to modify the dataset
 4. labels.csv: label classes
 5. Traffic_Sign_Classification(2).ipynb: The main file where we analyzed the dataset
+6. Traffic Signs Classification.pdf: PowerPoint
 
 ## Code Structure
 
